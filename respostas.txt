@@ -1,0 +1,19 @@
+Questões
+1 - Com suas palavras descreva o que é a DOM e qual sua relação com o 
+HTML? 
+Document Object Model é utilizado para fazer a representação do documento html 
+em uma página web, ele faz essa representação em uma estrutura de arvore que 
+organiza os elementos. Ele é utilizado na criação de páginas inteligentes e 
+dinâmicas.
+2 - O que é o canvas HTML? 
+O canvas HTML é um elemento utilizado para desenhar gráficos e imagens 
+utilizando scripts, geralmente utilizamos Javascript, mas também podemos utilizar 
+css.
+3 - Quais as linguagens e tecnologias comumente envolvidas no 
+desenvolvimento de produtos baseados em canvas html? 
+As linguagens utilizadas são HTML e JavaScript, ele é compatível com a maioria 
+dos navegadores, que são eles: chrome e chrome Android, edge, Firefox e Firefox 
+Android, opera e opera Android, safari e safari iOS, webview Android Samsung 
+internet. Ele é mais utilizado para fazer jogos web e páginas web dinâmicas.
+4 - Explique para que serve o código "document.getElementById()".
+Ele pega a referência de um elemento através do seu ID.
